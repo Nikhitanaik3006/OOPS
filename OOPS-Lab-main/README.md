@@ -4,10 +4,10 @@
 
 | Details | Information |
 |---|---|
-| **Name** | Vaishnavi M Mathad |
-| **Roll No** | 254 |
-| **Division** | B |
-| **SRN** | 01FE23BEC075 |
+| **Name** | Nikhita Mohan Naik |
+| **Roll No** | 536 |
+| **Division** | E |
+| **SRN** | 01FE23BEC270 |
 | **Semester** | 7th |
 
 ---
